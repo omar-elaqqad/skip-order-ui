@@ -49,3 +49,6 @@ The UI is broken into 4 key components:
 
 - Data is fetched from an external API or mock JSON in `App.jsx`.
 - State is managed at the App level and passed to child components.
+- The overall page structure:
+  ![image](https://github.com/user-attachments/assets/a2d11644-8c8e-4dae-8170-61ae6d952b34)
+
