@@ -2,7 +2,7 @@
 
 This project is a React-based user interface for a skip hire service, with a clean and responsive design. The main focus was to create an **eco-friendly experience** using a **blue and green color scheme**, responsive layout, and clear visual indicators of user progress.
 
-## 🌱 Project Goals
+##  Project Goals
 
 - Deliver an **eco-conscious** UI using calming **green and blue** tones.
 - Provide a **step-based ordering process** (Postcode → Payment) with clear progress indicators.
@@ -12,7 +12,7 @@ This project is a React-based user interface for a skip hire service, with a cle
 
 ---
 
-## 🧩 Components
+##  Components
 
 The UI is broken into 4 key components:
 
@@ -36,7 +36,7 @@ The UI is broken into 4 key components:
 
 ---
 
-## 📦 Tech Stack
+##  Tech Stack
 
 - **React**
 - **Tailwind CSS** – all styles are defined using utility classes (no custom CSS).
@@ -45,7 +45,7 @@ The UI is broken into 4 key components:
 
 ---
 
-## 🔄 Data & App Structure
+##  Data & App Structure
 
 - Data is fetched from an external API or mock JSON in `App.jsx`.
 - State is managed at the App level and passed to child components.
